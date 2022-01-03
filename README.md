@@ -1,7 +1,7 @@
 - 👋 Hi, I’m kalaivanan
 - 👀 I’m interested in data scientist
 - 🌱 I’m currently learning DATA SCIENCE AND BUSINESS ANALYST
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data science projects and jobs
 - 📫 How to reach me kalai2009me@gmail.com
 
 <!---
